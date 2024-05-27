@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec 11 12:07:20 2023
+Programa para predecir series temporales usando una red neuronal tipo 
+feedforward de capas densas. 
 
-@author: Juliana
-"""
-
-"""
-Created on Tue Dec  5 12:38:35 2023
-
-@author: Juliana
 """
 
 
