@@ -11,7 +11,19 @@ intermedias tienen 2*units cantidad de neuronas. Todas tienen
 una activación tipo relu. La última capa tiene una única 
 neurona y activación tipo lineal para poder extraer la 
 predicción. 
+Para configurar los datos y para realizar los gráficos usa
+el programa auxiliar redes_datos_prediccion.py.
 
+## stackedlstm.py 
+
+Programa que crea una red neuronal profunda de capas LSTM 
+apiladas utilizando la librería Keras para la predicción
+de series temporales.
+El programa está diseñado para que se pueda realizar un
+barrido en cantidad de épocas, cantidad de capas 
+apiladas y tamaño del batch. 
+Para configurar los datos y para realizar los gráficos usa
+el programa auxiliar redes_datos_prediccion.py.
 
 ## redes_datos_prediccion.py
 
