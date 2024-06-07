@@ -3,10 +3,10 @@ En este repositorio muestro algunos programas para predicción de series tempora
 
 ## red_regresion_0.1.py 
 
-Programa que crea una red neuronal profunda de capas densas utilizando la librería Keras.
+Programa que crea una red neuronal profunda de capas densas utilizando la librería Keras
 (las neuronas de cada capa se conectan con todas las neuronas
 la capa siguiente). 
-La primer capa tiene units cantidad de neuronal y las capas
+La primer capa tiene units cantidad de neuronas y las capas
 intermedias tienen 2*units cantidad de neuronas. Todas tienen 
 una activación tipo relu. La última capa tiene una única 
 neurona y activación tipo lineal para poder extraer la 
